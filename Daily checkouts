@@ -68,3 +68,5 @@ Voor CSS heb ik geleerd hoe je een radio en range styled, hoe je :focus gebruikt
 
 **Learning journal 03/12**
 Vandaag heb ik een CSS Grid workshop gedaan. het was heel nuttig om een refresh te hebben over grid en ook over micro-layouts te leren. Dit wil ik in mijn site gebruiken om mijn comments sectie te verbeteren.
+**Learning journal 04/12**
+Vandaag ben ik begonnen met JS te leren. We hebben 3 opdrachten gedaan, 'de console', '3 stappenplan' en 'van comments naar code'. Ik keb al een micro-interactie geimplementeerd in mijn code, namelijk een 'toon meer' button. Ik wil ook mijn hamburger button werkend maken met js om mijn header kleiner te maken op kleiner viewports, maar tot nu werkt het niet.
