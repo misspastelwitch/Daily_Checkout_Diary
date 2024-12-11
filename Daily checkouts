@@ -72,3 +72,5 @@ Vandaag heb ik een CSS Grid workshop gedaan. het was heel nuttig om een refresh 
 Vandaag ben ik begonnen met JS te leren. We hebben 3 opdrachten gedaan, 'de console', '3 stappenplan' en 'van comments naar code'. Ik keb al een micro-interactie geimplementeerd in mijn code, namelijk een 'toon meer' button. Ik wil ook mijn hamburger button werkend maken met js om mijn header kleiner te maken op kleiner viewports, maar tot nu werkt het niet.
 **Learning journal 09/12**
 Vandaag hebben we met js nieuwe UI events gemaakt. Ik heb 7 verschillende events gemaakt waarbij iedere knop een andere animatie doet waneer een andere 'event' op de pagina is. 
+**Learning journal 11/12**
+Ik heb vandaag over forms en states geleerd. Ik heb een nieuwe toggle state aangepast in  mijn  show more button, en ook een paar changes gemaakt op mijn zoekbalk. Voor vrijdag wil ik dat de kleur van mijn  search gaat terug naar wit na de invalid search. Vrijdag wil ik graag mijn show more button testen.
