@@ -14,6 +14,7 @@
   "author": "Misspastelwitch",
   "license": "MIT",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "liquidjs": "^10.21.0"
   }
 }
