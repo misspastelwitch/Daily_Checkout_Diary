@@ -52,8 +52,13 @@
 
     <!-- Journal Entry Results -->
     <section class="section sectionEntryResults" id="entryResultsSection">
+      <h2>Recent posts</h2>
       <div class="container">
-        <div class="container-row entryResultRow"></div>
+        <div class="container-row entryResultRow">
+         {% for file in files %}
+          <a href="/home/{{ file|slice:0,-3 }}">{{ file|slice:0,-3 }}</a>
+         {% endfor %}
+        </div>
       </div>
     </section>
 
