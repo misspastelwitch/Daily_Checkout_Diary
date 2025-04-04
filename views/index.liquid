@@ -56,7 +56,7 @@
       <div class="container">
         <div class="container-row entryResultRow">
          {% for file in files %}
-          <a href="/home/{{ file|slice:0,-3 }}">{{ file|slice:0,-3 }}</a>
+          <a href="../content/home.md{{ file|slice:0,-3 }}">{{ file|slice:0,-3 }}</a>
          {% endfor %}
         </div>
       </div>
