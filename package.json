@@ -1,0 +1,16 @@
+{
+  "name": "daily_checkout_diary",
+  "version": "1.0.0",
+  "description": "A way for me to see all of my Learning Journal entries",
+  "main": "server.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misspastelwitch/Daily_Checkout_Diary"
+  },
+  "author": "Misspastelwitch",
+  "license": "MIT"
+}
