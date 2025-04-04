@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A way for me to see all of my Learning Journal entries",
   "main": "server.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,5 +12,8 @@
     "url": "git+https://github.com/misspastelwitch/Daily_Checkout_Diary"
   },
   "author": "Misspastelwitch",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
